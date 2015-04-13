@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewsRouteTracker</string>
+    <string name="title_activity_maps_route_tracker">Map Route &amp; Tracker</string>
+</resources>
